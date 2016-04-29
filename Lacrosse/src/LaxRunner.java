@@ -130,6 +130,7 @@ public class LaxRunner
 						System.out.println();
 						int randomNumber=(int)(Math.random()*10);
 						System.out.println(statlist.get(randomNumber).getName()+ "wins the draw!");
+						//test
 						System.out.println();
 					}
 
